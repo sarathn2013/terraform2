@@ -1,6 +1,6 @@
 Terraform script for vpc peering
 ===
-This terraform script will create a simple stack in aws with two vpc's with public and private subnets and internet gateways attached to public subnet and establishes a peering connection between them.
+This terraform script will create a simple stack in aws with two vpc's with public and private subnets and internet gateways attached to public subnet and establishes a peering connection between two VPC's.
 
 Pre - Requisites:
 ---
